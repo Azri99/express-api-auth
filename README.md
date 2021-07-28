@@ -2,7 +2,8 @@
 
 An Auth Example
 
-# JWT
-(Example)[https://github.com/Azri99/express-api-auth/tree/master/src/middleware/jwt]
+### JWT
+View
+[Example](https://github.com/Azri99/express-api-auth/tree/master/src/middleware/jwt)
 
 
