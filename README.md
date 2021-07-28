@@ -1,33 +1,8 @@
-# Express API Starter
+# Express API Auth
 
-Credit to w3cj
-(https://www.github.com/w3cj)
+An Auth Example
 
-## Setup
+# JWT
+(Example)[https://github.com/Azri99/express-api-auth/tree/master/src/middleware/jwt]
 
-```
-npm install
-```
 
-## Lint
-
-```
-npm run lint
-```
-
-## Test
-
-```
-npm run test
-```
-
-## Development
-
-```
-npm run dev
-```
-
-## Run 
-```
-npm start
-```
